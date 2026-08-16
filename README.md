@@ -24,9 +24,9 @@ This involved repetitive manual actions and consumed processing time on a daily 
 
 A Power Automate workflow was developed to automate the file-handling process.
 
-### Automated Process
+## Automation Workflow
 
-**New Email → Power Automate → Process Relevant Files → OneDrive**
+![Image File Download Automation Workflow](architecture/Image-File-Download-Automation-Workflow.png)
 
 The workflow:
 
